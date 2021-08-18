@@ -1,0 +1,9 @@
+{"features": [{
+"geometry": {"coordinates": [94.9768, 37.1118], "type": "Point"}, "properties": {"name": "Haixi Mongolian Tibetan Autonomous Prefecture"}, "type": "Feature" }, {
+"geometry": {"coordinates": [93.5925, 33.9368], "type": "Point"}, "properties": {"name": "Yushu Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [99.3823, 34.0466], "type": "Point"}, "properties": {"name": "Golo Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [100.3711, 35.9418], "type": "Point"}, "properties": {"name": "Hainan Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [100.3711, 37.9138], "type": "Point"}, "properties": {"name": "Haibei Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [101.5686, 35.1178], "type": "Point"}, "properties": {"name": "Huangnan Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [102.3706, 36.2988], "type": "Point"}, "properties": {"name": "Haidong Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [101.4038, 36.8207], "type": "Point"}, "properties": {"name": "Xining City"}, "type": "Feature"}], " Type": "FeatureCollection"}

@@ -1,0 +1,19 @@
+{"features": [{
+"geometry": {"coordinates": [113.94195556640625, 22.267493167207178], "type": "Point"}, "properties": {"name": "Lidao District", "type": "Feature"}, {
+"geometry": {"coordinates": [113.95431518554686, 22.39071391683855], "type": "Point"}, "properties": {"name": "Tunmen District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.17678833007812, 22.508750980898704], "type": "Point"}, "properties": {"name": "Northern District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.05868530273438, 22.44530268140158], "type": "Point"}, "properties": {"name": "Yuen Long District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.09713745117188, 22.391983666602783], "type": "Point"}, "properties": {"name": "Quanwan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.0985107421875, 22.344995208437894], "type": "Point"}, "properties": {"name": "Kwai Tsing District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.20150756835938, 22.2280904167845], "type": "Point"}, "properties": {"name": "Southern District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.14657592773438, 22.26876403907398], "type": "Point"}, "properties": {"name": "Central and Western District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.17129516601562, 22.26876403907398], "type": "Point"}, "properties": {"name": "Wan Chai District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.22622680664062, 22.253512814974744], "type": "Point"}, "properties": {"name": "Eastern District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.27978515625, 22.290367094285866], "type": "Point"}, "properties": {"name": "Saigon District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.2413330078125, 22.300532082873683], "type": "Point"}, "properties": {"name": "Kwun Tong District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.20150756835938, 22.30815533897154], "type": "Point"}, "properties": {"name": "Kowloon City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.1644287109375, 22.311966810977616], "type": "Point"}, "properties": {"name": "Sham Shui Po District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.1757583618164, 22.302755575548254], "type": "Point"}, "properties": {"name": "Youshuiwang District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.2025375366211, 22.336738842238145], "type": "Point"}, "properties": {"name": "Wong Tai Sin District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.20219421386719, 22.382142802727515], "type": "Point"}, "properties": {"name": "Sha Tin District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.28459167480469, 22.444668051657157], "type": "Point"}, "properties": {"name": "Taipu District"}, "type": "Feature"}], "type": "FeatureCollection"}

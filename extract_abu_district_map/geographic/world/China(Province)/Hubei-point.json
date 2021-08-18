@@ -1,0 +1,18 @@
+{"features": [{
+"geometry": {"coordinates": [109.5007, 30.2563], "type": "Point"}, "properties": {"name": "Enshi Tujia and Miao Autonomous Prefecture"}, "type": "Feature"} , {
+"geometry": {"coordinates": [110.5115, 32.3877], "type": "Point"}, "properties": {"name": "Shiyan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [111.1707, 30.7617], "type": "Point"}, "properties": {"name": "Yichang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [111.9397, 31.9263], "type": "Point"}, "properties": {"name": "Xiangyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.2686, 30.6628], "type": "Point"}, "properties": {"name": "Huanggang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.291, 30.0092], "type": "Point"}, "properties": {"name": "Jingzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [112.6758, 30.9979], "type": "Point"}, "properties": {"name": "Jingmen City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.2578, 29.6631], "type": "Point"}, "properties": {"name": "Xianning City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.4338, 31.8768], "type": "Point"}, "properties": {"name": "Suizhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.9502, 31.1188], "type": "Point"}, "properties": {"name": "Xiaogan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.3896, 30.6628], "type": "Point"}, "properties": {"name": "Wuhan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.0159, 29.9213], "type": "Point"}, "properties": {"name": "Huangshi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [110.4565, 31.5802], "type": "Point"}, "properties": {"name": "Shennongjia Lin City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.0273, 30.6409], "type": "Point"}, "properties": {"name": "Tianmen City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.3789, 30.3003], "type": "Point"}, "properties": {"name": "Xiantao City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [112.7637, 30.3607], "type": "Point"}, "properties": {"name": "Qianjiang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.7302, 30.4102], "type": "Point"}, "properties": {"name": "Ezhou City"}, "type": "Feature"}], " Type": "FeatureCollection"}

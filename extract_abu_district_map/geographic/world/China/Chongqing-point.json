@@ -1,0 +1,41 @@
+{"features": [{
+"geometry": {"coordinates": [108.8196, 28.8666], "type": "Point"}, "properties": {"name": "Youyang Tujia and Miao Autonomous County"}, "type": "Feature" }, {
+"geometry": {"coordinates": [109.3909, 30.9265], "type": "Point"}, "properties": {"name": "Fengjie County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.3359, 31.4813], "type": "Point"}, "properties": {"name": "Wushan County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.4131, 31.2561], "type": "Point"}, "properties": {"name": "Kaixian"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.2043, 29.3994], "type": "Point"}, "properties": {"name": "Pengshui Miao and Tujia Autonomous County"}, "type": "Feature" }, {
+"geometry": {"coordinates": [108.8306, 31.0089], "type": "Point"}, "properties": {"name": "Yunyang County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.3911, 30.6958], "type": "Point"}, "properties": {"name": "Wanzhou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.7756, 31.9098], "type": "Point"}, "properties": {"name": "Chengkou County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.2158, 28.9874], "type": "Point"}, "properties": {"name": "Jiangjin District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.2813, 30.1025], "type": "Point"}, "properties": {"name": "Shizhu Tujia Autonomous County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.8853, 31.1188], "type": "Point"}, "properties": {"name": "Wushan County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.3364, 29.6796], "type": "Point"}, "properties": {"name": "Fuling District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.8418, 29.9048], "type": "Point"}, "properties": {"name": "Fengdu County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.655, 29.35], "type": "Point"}, "properties": {"name": "Wulong County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.1716, 29.1302], "type": "Point"}, "properties": {"name": "Nanchuan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.0173, 28.5205], "type": "Point"}, "properties": {"name": "Xiushan Tujia and Miao Autonomous County"}, "type": "Feature"} , {
+"geometry": {"coordinates": [108.7207, 29.4708], "type": "Point"}, "properties": {"name": "Qianjiang District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.3257, 30.108], "type": "Point"}, "properties": {"name": "Hechuan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.6553, 28.8171], "type": "Point"}, "properties": {"name": "Qijiang County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.8967, 30.3223], "type": "Point"}, "properties": {"name": "Zhongxian"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.7429, 30.6519], "type": "Point"}, "properties": {"name": "Liangping County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.7322, 29.4214], "type": "Point"}, "properties": {"name": "Banan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.7764, 30.1135], "type": "Point"}, "properties": {"name": "Tongnan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.8643, 29.2566], "type": "Point"}, "properties": {"name": "Yongchuan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.4573, 30.2454], "type": "Point"}, "properties": {"name": "Dajiang County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.7212, 29.8499], "type": "Point"}, "properties": {"name": "Yubei District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.1606, 29.9762], "type": "Point"}, "properties": {"name": "Changshou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.7544, 29.6136], "type": "Point"}, "properties": {"name": "Dazu County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.0291, 29.8059], "type": "Point"}, "properties": {"name": "Tongliang County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.5127, 29.4708], "type": "Point"}, "properties": {"name": "Rongchang County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.2048, 29.5807], "type": "Point"}, "properties": {"name": "Bishan County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.5674, 29.8883], "type": "Point"}, "properties": {"name": "Beibei District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.908, 28.9325], "type": "Point"}, "properties": {"name": "Wansheng District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.3586, 29.4049], "type": "Point"}, "properties": {"name": "Jiulongpo District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.3696, 29.6191], "type": "Point"}, "properties": {"name": "Shapingba District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.6663, 29.5367], "type": "Point"}, "properties": {"name": "Southshore"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.8311, 29.6191], "type": "Point"}, "properties": {"name": "Jiangbei District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.4905, 29.4214], "type": "Point"}, "properties": {"name": "Dadukou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.7874, 29.4928], "type": "Point"}, "properties": {"name": "Shuangqiao District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.5344, 29.5477], "type": "Point"}, "properties": {"name": "Yuzhong District"}, "type": "Feature"}], " Type": "FeatureCollection"}

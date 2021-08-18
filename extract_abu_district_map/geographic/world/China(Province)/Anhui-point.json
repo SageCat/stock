@@ -1,0 +1,18 @@
+{"cp": [117.2461, 32.0361], "features": [{
+"geometry": {"coordinates": [116.3123, 31.8329], "type": "Point"}, "properties": {"name": "Lu'an City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.7517, 30.5255], "type": "Point"}, "properties": {"name": "Anqing City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.1909, 32.536], "type": "Point"}, "properties": {"name": "Chuzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.8062, 30.6244], "type": "Point"}, "properties": {"name": "Xuancheng City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.7629, 32.9919], "type": "Point"}, "properties": {"name": "Fuyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.5208, 33.6841], "type": "Point"}, "properties": {"name": "Suzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.0481, 29.9542], "type": "Point"}, "properties": {"name": "Huangshan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.7734, 31.4978], "type": "Point"}, "properties": {"name": "Chaohu City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.1914, 33.4698], "type": "Point"}, "properties": {"name": "Bozhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.3889, 30.2014], "type": "Point"}, "properties": {"name": "Chizhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.29, 32.0581], "type": "Point"}, "properties": {"name": "Hefei City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.4109, 33.1073], "type": "Point"}, "properties": {"name": "Bengbu City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.3557, 31.0858], "type": "Point"}, "properties": {"name": "Wuhu City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.6968, 33.6896], "type": "Point"}, "properties": {"name": "Huaibei City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.7847, 32.7722], "type": "Point"}, "properties": {"name": "Huainan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.6304, 31.5363], "type": "Point"}, "properties": {"name": "Maanshan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.9382, 30.9375], "type": "Point"}, "properties": {"name": "Tongling City"}, "type": "Feature"}], " Type": "FeatureCollection"}

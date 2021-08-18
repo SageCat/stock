@@ -1,0 +1,17 @@
+{"features": [{
+"geometry": {"coordinates": [116.993408203125, 40.57224011776902], "type": "Point"}, "properties": {"name": "Miyun District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.1636962890625, 40.19146303804063], "type": "Point"}, "properties": {"name": "Pinggu District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.630859375, 40.76390128094589], "type": "Point"}, "properties": {"name": "Huairou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.25732421875, 40.27952566881291], "type": "Point"}, "properties": {"name": "Changping District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.72973632812499, 40.1452892956766], "type": "Point"}, "properties": {"name": "Shunyi District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.72973632812499, 39.80009595634841], "type": "Point"}, "properties": {"name": "Tongzhou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.400146484375, 39.63953756436671], "type": "Point"}, "properties": {"name": "Daxing District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.83984375, 39.690280594818034], "type": "Point"}, "properties": {"name": "Fangshan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.7464599609375, 40.01499435375046], "type": "Point"}, "properties": {"name": "Mentougou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.51687622070314, 39.95606977009003], "type": "Point"}, "properties": {"name": "Chaoyang District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.26556396484374, 39.84334044044997], "type": "Point"}, "properties": {"name": "Fengtai District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.1639404296875, 39.939224840791965], "type": "Point"}, "properties": {"name": "Shijingshan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.25183105468751, 40.00447583427404], "type": "Point"}, "properties": {"name": "Haidian District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.42005920410155, 39.92606185382841], "type": "Point"}, "properties": {"name": "Dongcheng District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.36444091796875, 39.92132255884663], "type": "Point"}, "properties": {"name": "Xicheng District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.0870361328125, 40.526326510744006], "type": "Point"}, "properties": {"name": "Yanqing District"}, "type": "Feature"}], " Type": "FeatureCollection"}

@@ -1,0 +1,21 @@
+{"features": [{
+"geometry": {"coordinates": [121.08581542968751, 22.847070687839064], "type": "Point"}, "properties": {"name": "Taitong County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.60241699218751, 22.44149485938026], "type": "Point"}, "properties": {"name": "Pingdong County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.70678710937499, 23.024131861805987], "type": "Point"}, "properties": {"name": "Kaohsiung City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.377197265625, 23.175713800385203], "type": "Point"}, "properties": {"name": "Tainan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.6573486328125, 23.433009077420344], "type": "Point"}, "properties": {"name": "Chiayi County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.39892578125, 23.725011735951796], "type": "Point"}, "properties": {"name": "Hualien County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.97595214843749, 23.85569800975124], "type": "Point"}, "properties": {"name": "Nantou County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.32226562500001, 23.704894502324912], "type": "Point"}, "properties": {"name": "Yunlin County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.47607421874999, 23.926013033021203], "type": "Point"}, "properties": {"name": "Changhua County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.67358398437499, 24.50214490121089], "type": "Point"}, "properties": {"name": "Yilan County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.8441162109375, 24.206889622398023], "type": "Point"}, "properties": {"name": "Taichung City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.82763671875, 24.472150437226865], "type": "Point"}, "properties": {"name": "Miaoli County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.1572265625, 24.637031353509528], "type": "Point"}, "properties": {"name": "Hsinchu County"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.212158203125, 24.891419479211137], "type": "Point"}, "properties": {"name": "Taoyuan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.5252685546875, 24.82163935684663], "type": "Point"}, "properties": {"name": "Xinbei City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.5147705078125, 23.46828520085324], "type": "Point"}, "properties": {"name": "Pneghu City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.39965820312499, 24.457150524185852], "type": "Point"}, "properties": {"name": "Golden Gate"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.9320068359375, 24.766784522874453], "type": "Point"}, "properties": {"name": "Hsinchu City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.5582275390625, 25.095548539604252], "type": "Point"}, "properties": {"name": "Taipei City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.70654296874999, 25.120419105501256], "type": "Point"}, "properties": {"name": "Keelung City"}, "type": "Feature"}], " Type": "FeatureCollection"}

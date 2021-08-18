@@ -1,0 +1,12 @@
+{"features": [{
+"geometry": {"coordinates": [117.5757, 41.4075], "type": "Point"}, "properties": {"name": "Chengde City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.1477, 40.8527], "type": "Point"}, "properties": {"name": "Zhangjiakou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.0488, 39.0948], "type": "Point"}, "properties": {"name": "Baoding City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.4766, 39.6826], "type": "Point"}, "properties": {"name": "Tangshan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.8286, 38.2104], "type": "Point"}, "properties": {"name": "Cangzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.4995, 38.1006], "type": "Point"}, "properties": {"name": "Shijiazhuang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.8071, 37.2821], "type": "Point"}, "properties": {"name": "Xingtai City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [114.4775, 36.535], "type": "Point"}, "properties": {"name": "Handan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.2126, 40.0232], "type": "Point"}, "properties": {"name": "Qinhuangdao City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.8838, 37.7161], "type": "Point"}, "properties": {"name": "Hengshui City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.521, 39.0509], "type": "Point"}, "properties": {"name": "Langfang City"}, "type": "Feature"}], " Type": "FeatureCollection"}

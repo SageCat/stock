@@ -1,0 +1,14 @@
+{"center": [126.1445, 48.7156], "features": [{
+"geometry": {"coordinates": [127.1448, 49.2957], "type": "Point"}, "properties": {"name": "Heihe City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [124.1016, 52.2345], "type": "Point"}, "properties": {"name": "Daxinganling Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [127.9688, 45.368], "type": "Point"}, "properties": {"name": "Harbin City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [124.541, 47.5818], "type": "Point"}, "properties": {"name": "Qiqihar City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [129.7815, 44.7089], "type": "Point"}, "properties": {"name": "Mudanjiang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [126.7163, 46.8018], "type": "Point"}, "properties": {"name": "Suihua City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [129.1992, 47.9608], "type": "Point"}, "properties": {"name": "Yichun City", "type": "Feature"}, {
+"geometry": {"coordinates": [133.0005, 47.5763], "type": "Point"}, "properties": {"name": "Jiamusi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [132.7917, 45.7361], "type": "Point"}, "properties": {"name": "Jixi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [133.5938, 46.7523], "type": "Point"}, "properties": {"name": "Shuangyashan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [124.7717, 46.4282], "type": "Point"}, "properties": {"name": "Daqing City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [130.4407, 47.7081], "type": "Point"}, "properties": {"name": "Hegang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [131.2756, 45.9558], "type": "Point"}, "properties": {"name": "Qitaihe City"}, "type": "Feature"}] , "type": "FeatureCollection"}

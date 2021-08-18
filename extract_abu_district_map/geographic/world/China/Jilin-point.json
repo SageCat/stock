@@ -1,0 +1,10 @@
+{"features": [{
+"geometry": {"coordinates": [129.397, 43.2587], "type": "Point"}, "properties": {"name": "Yanbian Korean Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [126.8372, 43.6047], "type": "Point"}, "properties": {"name": "Jilin City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [123.0029, 45.2637], "type": "Point"}, "properties": {"name": "Baicheng city"}, "type": "Feature"}, {
+"geometry": {"coordinates": [124.0906, 44.7198], "type": "Point"}, "properties": {"name": "Songyuan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [125.8154, 44.2584], "type": "Point"}, "properties": {"name": "Changchun City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [127.2217, 42.0941], "type": "Point"}, "properties": {"name": "Baishan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [125.9583, 41.8579], "type": "Point"}, "properties": {"name": "Tonghua City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [124.541, 43.4894], "type": "Point"}, "properties": {"name": "Siping City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [125.343, 42.7643], "type": "Point"}, "properties": {"name": "Liaoyuan City"}, "type": "Feature"}], " Type": "FeatureCollection"}

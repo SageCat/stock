@@ -1,0 +1,8 @@
+{"features": [{
+"geometry": {"coordinates": [88.1982, 33.3215], "type": "Point"}, "properties": {"name": "Naqu Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [82.3645, 32.7667], "type": "Point"}, "properties": {"name": "Ali Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [86.2427, 29.5093], "type": "Point"}, "properties": {"name": "Shigatse Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [95.4602, 29.1138], "type": "Point"}, "properties": {"name": "Nyingchi Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [97.0203, 30.7068], "type": "Point"}, "properties": {"name": "Changdu Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [92.2083, 28.3392], "type": "Point"}, "properties": {"name": "Shannan Area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [91.1865, 30.1465], "type": "Point"}, "properties": {"name": "Lhasa"}, "type": "Feature"}], " Type": "FeatureCollection"}

@@ -1,0 +1,2095 @@
+[
+  {
+    "id": "kpi_24",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "High School students registered for STEM exams (% of total)",
+    "lastUpdated": null,
+    "updateFrequency": "Yearly",
+    "dataSource": "ADEK",
+    "calculationMethodology": "Number of students registered for STEM / Number of 16-17 years old students",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_25",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Lifelong Learning",
+    "relatedInitiatives": null,
+    "name": "Emiratization in critical positions in the private sector (% of total)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": "Measured as a percentage of Emiratis working in the positions identified to be critical in a representative sample of private sector surveyed respondents out of total number of critical positions identified",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_26",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Foreign Talent",
+    "relatedInitiatives": null,
+    "name": "Highly accomplished international graduates from AD HEIs who remain in AD annually (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": 10,
+          "presentationalValue": "10"
+        },
+        "2025": {
+          "value": 10,
+          "presentationalValue": "10"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2023",
+        "furthestTarget": "2025",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_27",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Lifelong Learning",
+    "relatedInitiatives": [
+      "initiative_3"
+    ],
+    "name": "Adult citizens continuously engaged in lifelong learning (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": "Number of citizens between 25 and 65 years old who have received or updated a skill certification in the past 5 years / Number of citizens between 25 and 65 years old",
+    "criticality": "Top 3",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_28",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Higher Education",
+    "relatedInitiatives": null,
+    "name": "Abu Dhabi HEI graduates employed after 3 months (%) ",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Top 3",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_29",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "Children under the age of 4 enrolled in quality early childhood education (%)",
+    "lastUpdated": "2019",
+    "updateFrequency": "Yearly",
+    "dataSource": "PMS",
+    "calculationMethodology": "Number of children under the age of 4 enrolled in early childhood education / Total number of children under the age of 4",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": {
+      "Region": [
+        null
+      ],
+      "Gender": [
+        null
+      ],
+      "Cluster": [
+        null
+      ],
+      "Country": [
+        null
+      ],
+      "Sector": [
+        null
+      ]
+    },
+    "targets": [
+      {
+        "2023": {
+          "value": 15,
+          "presentationalValue": "15"
+        },
+        "2025": {
+          "value": 20,
+          "presentationalValue": "20"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2023",
+        "furthestTarget": "2025",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": [
+      {
+        "period": "2018",
+        "value": 9,
+        "fullValue": "9 %",
+        "userFriendlyValue": "9",
+        "kpiTarget": "6.5",
+        "kpiIsOk": 1,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": "2.5 % current target",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2019",
+        "value": 9,
+        "fullValue": "9 %",
+        "userFriendlyValue": "9",
+        "kpiTarget": "4",
+        "kpiIsOk": 1,
+        "trend": "0%",
+        "trendIsOk": null,
+        "trendPeriod": "2018",
+        "arrowDown": null,
+        "lastValue": true,
+        "collation": "5 % current target",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ]
+  },
+  {
+    "id": "kpi_30",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Higher Education",
+    "relatedInitiatives": null,
+    "name": "Employers and job seekers saying there is no skill gap (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": "-",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_31",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Higher Education",
+    "relatedInitiatives": null,
+    "name": "Graduates aligned to labor market needs (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_32",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Lifelong Learning",
+    "relatedInitiatives": null,
+    "name": "Participants taking life long learning programs in areas of priority (%) ",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": "ADEK",
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_33",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "Private and charter schools rated good and above (Irtiqaa) (%)",
+    "lastUpdated": "2017",
+    "updateFrequency": "Yearly",
+    "dataSource": "ADEK",
+    "calculationMethodology": "Number of private and charter schools achieving \"Good\" or better / Total number of private and charter schools",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": {
+      "Region": [
+        null
+      ],
+      "Gender": [
+        null
+      ],
+      "Cluster": [
+        null
+      ],
+      "Country": [
+        null
+      ],
+      "Sector": [
+        null
+      ]
+    },
+    "targets": [
+      {
+        "2023": {
+          "value": 55,
+          "presentationalValue": "55"
+        },
+        "2025": {
+          "value": 60,
+          "presentationalValue": "60"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2023",
+        "furthestTarget": "2025",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": [
+      {
+        "period": "2016",
+        "value": 40,
+        "fullValue": "40 %",
+        "userFriendlyValue": "40",
+        "kpiTarget": "2.5",
+        "kpiIsOk": 1,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": "37.5 % current target",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2017",
+        "value": 41.35,
+        "fullValue": null,
+        "userFriendlyValue": null,
+        "kpiTarget": null,
+        "kpiIsOk": 1,
+        "trend": null,
+        "trendIsOk": 1,
+        "trendPeriod": "2016",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ]
+  },
+  {
+    "id": "kpi_34",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "Schools achieving targets set by ADEK (%)",
+    "lastUpdated": "2017",
+    "updateFrequency": "Yearly",
+    "dataSource": "ADEK",
+    "calculationMethodology": "Number of schools achieving \"Good\" or better / Total number of schools",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": {
+      "Region": [
+        null
+      ],
+      "Gender": [
+        null
+      ],
+      "Cluster": [
+        null
+      ],
+      "Country": [
+        null
+      ],
+      "Sector": [
+        null
+      ]
+    },
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": [
+      {
+        "period": "2016",
+        "value": 33.51,
+        "fullValue": "33.5 %",
+        "userFriendlyValue": "33.5",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2017",
+        "value": 44.58,
+        "fullValue": null,
+        "userFriendlyValue": null,
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": 1,
+        "trendPeriod": "2016",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ]
+  },
+  {
+    "id": "kpi_35",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "Students rating their teachers as \"Very Good\" or \"Excellent\" (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": "ADEK",
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_36",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "Students who meet or exceed standardized curriculum benchmark targets in key subjects (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": "ADEK",
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": 54,
+          "presentationalValue": "54"
+        },
+        "2025": {
+          "value": 60,
+          "presentationalValue": "60"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2023",
+        "furthestTarget": "2025",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_37",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "Graduation rate for Emirati students (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": "ADEK",
+    "calculationMethodology": "-",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": 66,
+          "presentationalValue": "66"
+        },
+        "2025": {
+          "value": 68,
+          "presentationalValue": "68"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2023",
+        "furthestTarget": "2025",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_38",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Foreign Talent",
+    "relatedInitiatives": null,
+    "name": "Visas given to “high target” talent",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_39",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Foreign Talent",
+    "relatedInitiatives": null,
+    "name": "Global talent competitiveness index",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": "-",
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": 30,
+          "presentationalValue": "30"
+        },
+        "2025": {
+          "value": 20,
+          "presentationalValue": "20"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2023",
+        "furthestTarget": "2025",
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_40",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "UAE PISA ranking",
+    "lastUpdated": "2018",
+    "updateFrequency": "Every 3 years",
+    "dataSource": "OECD",
+    "calculationMethodology": "Ranking based on average scores of Reading, Maths and Science fields",
+    "criticality": "Top 3",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": "United Arab Emirates",
+      "Sector": null
+    },
+    "dimensions": {
+      "Region": [
+        null
+      ],
+      "Gender": [
+        null
+      ],
+      "Cluster": [
+        null
+      ],
+      "Country": [
+        "Finland",
+        "France",
+        "Japan",
+        "Saudi Arabia",
+        "Switzerland",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "Sector": [
+        null
+      ]
+    },
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": 45,
+          "presentationalValue": "45"
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": "2025",
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United Arab Emirates",
+        "Sector": null
+      }
+    ],
+    "data": [
+      {
+        "period": "2012",
+        "value": 6,
+        "fullValue": "6 th",
+        "userFriendlyValue": "6",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Finland",
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 8,
+        "fullValue": "8 th",
+        "userFriendlyValue": "8",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+2",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Finland",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 10,
+        "fullValue": "10 th",
+        "userFriendlyValue": "10",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+2",
+        "trendIsOk": 0,
+        "trendPeriod": "2015",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Finland",
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 22,
+        "fullValue": "22 nd",
+        "userFriendlyValue": "22",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "France",
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 26,
+        "fullValue": "26 th",
+        "userFriendlyValue": "26",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+4",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "France",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 26,
+        "fullValue": "26 th",
+        "userFriendlyValue": "26",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "0",
+        "trendIsOk": null,
+        "trendPeriod": "2015",
+        "arrowDown": null,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "France",
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 4,
+        "fullValue": "4 th",
+        "userFriendlyValue": "4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Japan",
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 3,
+        "fullValue": "3 rd",
+        "userFriendlyValue": "3",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-1",
+        "trendIsOk": 1,
+        "trendPeriod": "2012",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Japan",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 6,
+        "fullValue": "6 th",
+        "userFriendlyValue": "6",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+3",
+        "trendIsOk": 0,
+        "trendPeriod": "2015",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Japan",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 70,
+        "fullValue": "70 th",
+        "userFriendlyValue": "70",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Saudi Arabia",
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 12,
+        "fullValue": "12 nd",
+        "userFriendlyValue": "12",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Switzerland",
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 15,
+        "fullValue": "15 th",
+        "userFriendlyValue": "15",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+3",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Switzerland",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 22,
+        "fullValue": "22 nd",
+        "userFriendlyValue": "22",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+7",
+        "trendIsOk": 0,
+        "trendPeriod": "2015",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "Switzerland",
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 43,
+        "fullValue": "43 rd",
+        "userFriendlyValue": "43",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United Arab Emirates",
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 49,
+        "fullValue": "49 th",
+        "userFriendlyValue": "49",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+6",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United Arab Emirates",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 47,
+        "fullValue": "47 th",
+        "userFriendlyValue": "47",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-2",
+        "trendIsOk": 1,
+        "trendPeriod": "2015",
+        "arrowDown": true,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United Arab Emirates",
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 27,
+        "fullValue": "27 th",
+        "userFriendlyValue": "27",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United States",
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 31,
+        "fullValue": "31 st",
+        "userFriendlyValue": "31",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+4",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United States",
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 25,
+        "fullValue": "25 th",
+        "userFriendlyValue": "25",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-6",
+        "trendIsOk": 1,
+        "trendPeriod": "2015",
+        "arrowDown": true,
+        "lastValue": true,
+        "collation": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": "United States",
+        "Sector": null
+      }
+    ]
+  },
+  {
+    "id": "kpi_41",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Schools",
+    "relatedInitiatives": null,
+    "name": "TIMSS ranking",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Level 1",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_42",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Foreign Talent",
+    "relatedInitiatives": null,
+    "name": "Jobs created",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  },
+  {
+    "id": "kpi_43",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Higher Education, Lifelong Learning, Foreign Talent",
+    "relatedInitiatives": [
+      "initiative_2"
+    ],
+    "name": "Emirati unemployment rate (%)",
+    "lastUpdated": "2020",
+    "updateFrequency": "Yearly",
+    "dataSource": "SCAD",
+    "calculationMethodology": "Unemployed Emiratis / Emiratis in workforce",
+    "criticality": "Top 3",
+    "defaultDimension": {
+      "Region": "Abu Dhabi Region",
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": {
+      "Region": [
+        "Abu Dhabi Region",
+        "Al Ain Region",
+        "Al Dhafra Region"
+      ],
+      "Gender": [
+        null
+      ],
+      "Cluster": [
+        null
+      ],
+      "Country": [
+        null
+      ],
+      "Sector": [
+        null
+      ]
+    },
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": [
+      {
+        "period": "2012",
+        "value": 9.97,
+        "fullValue": "10.0 %",
+        "userFriendlyValue": "10.0",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2013",
+        "value": 15.64,
+        "fullValue": "15.6 %",
+        "userFriendlyValue": "15.6",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+5.67%",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2014",
+        "value": 10.87,
+        "fullValue": "10.9 %",
+        "userFriendlyValue": "10.9",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-4.77%",
+        "trendIsOk": 1,
+        "trendPeriod": "2013",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 8.82,
+        "fullValue": "8.82 %",
+        "userFriendlyValue": "8.82",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-2.05%",
+        "trendIsOk": 1,
+        "trendPeriod": "2014",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2016",
+        "value": 10.2,
+        "fullValue": "10.2 %",
+        "userFriendlyValue": "10.2",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+1.38%",
+        "trendIsOk": 0,
+        "trendPeriod": "2015",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2017",
+        "value": 12.92,
+        "fullValue": "12.9 %",
+        "userFriendlyValue": "12.9",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+2.72%",
+        "trendIsOk": 0,
+        "trendPeriod": "2016",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 16.66,
+        "fullValue": "16.7 %",
+        "userFriendlyValue": "16.7",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+3.74%",
+        "trendIsOk": 0,
+        "trendPeriod": "2017",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2019",
+        "value": 14.88,
+        "fullValue": "14.9 %",
+        "userFriendlyValue": "14.9",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-1.78%",
+        "trendIsOk": 1,
+        "trendPeriod": "2018",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2020",
+        "value": 15.64,
+        "fullValue": "15.6 %",
+        "userFriendlyValue": "15.6",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+0.76%",
+        "trendIsOk": 0,
+        "trendPeriod": "2019",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": "Abu Dhabi Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 17.84,
+        "fullValue": "17.8 %",
+        "userFriendlyValue": "17.8",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2013",
+        "value": 21.46,
+        "fullValue": "21.5 %",
+        "userFriendlyValue": "21.5",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+3.62%",
+        "trendIsOk": 0,
+        "trendPeriod": "2012",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2014",
+        "value": 12.51,
+        "fullValue": "12.5 %",
+        "userFriendlyValue": "12.5",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-8.95%",
+        "trendIsOk": 1,
+        "trendPeriod": "2013",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 17.24,
+        "fullValue": "17.2 %",
+        "userFriendlyValue": "17.2",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+4.73%",
+        "trendIsOk": 0,
+        "trendPeriod": "2014",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2016",
+        "value": 15.12,
+        "fullValue": "15.1 %",
+        "userFriendlyValue": "15.1",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-2.12%",
+        "trendIsOk": 1,
+        "trendPeriod": "2015",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2017",
+        "value": 19.4,
+        "fullValue": "19.4 %",
+        "userFriendlyValue": "19.4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+4.28%",
+        "trendIsOk": 0,
+        "trendPeriod": "2016",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 16.44,
+        "fullValue": "16.4 %",
+        "userFriendlyValue": "16.4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-2.96%",
+        "trendIsOk": 1,
+        "trendPeriod": "2017",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2019",
+        "value": 18.09,
+        "fullValue": "18.1 %",
+        "userFriendlyValue": "18.1",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+1.65%",
+        "trendIsOk": 0,
+        "trendPeriod": "2018",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2020",
+        "value": 20.78,
+        "fullValue": "20.8 %",
+        "userFriendlyValue": "20.8",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+2.69%",
+        "trendIsOk": 0,
+        "trendPeriod": "2019",
+        "arrowDown": false,
+        "lastValue": true,
+        "collation": null,
+        "Region": "Al Ain Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2012",
+        "value": 16.36,
+        "fullValue": "16.4 %",
+        "userFriendlyValue": "16.4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": null,
+        "trendIsOk": null,
+        "trendPeriod": null,
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2013",
+        "value": 15.8,
+        "fullValue": "15.8 %",
+        "userFriendlyValue": "15.8",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-0.56%",
+        "trendIsOk": 1,
+        "trendPeriod": "2012",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2014",
+        "value": 10.96,
+        "fullValue": "11.0 %",
+        "userFriendlyValue": "11.0",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-4.84%",
+        "trendIsOk": 1,
+        "trendPeriod": "2013",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2015",
+        "value": 11.21,
+        "fullValue": "11.2 %",
+        "userFriendlyValue": "11.2",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+0.25%",
+        "trendIsOk": 0,
+        "trendPeriod": "2014",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2016",
+        "value": 13.44,
+        "fullValue": "13.4 %",
+        "userFriendlyValue": "13.4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+2.23%",
+        "trendIsOk": 0,
+        "trendPeriod": "2015",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2017",
+        "value": 13.45,
+        "fullValue": "13.4 %",
+        "userFriendlyValue": "13.4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+0.01%",
+        "trendIsOk": 0,
+        "trendPeriod": "2016",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2018",
+        "value": 19.07,
+        "fullValue": "19.1 %",
+        "userFriendlyValue": "19.1",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "+5.62%",
+        "trendIsOk": 0,
+        "trendPeriod": "2017",
+        "arrowDown": false,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2019",
+        "value": 17.38,
+        "fullValue": "17.4 %",
+        "userFriendlyValue": "17.4",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-1.69%",
+        "trendIsOk": 1,
+        "trendPeriod": "2018",
+        "arrowDown": true,
+        "lastValue": false,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      },
+      {
+        "period": "2020",
+        "value": 16.9,
+        "fullValue": "16.9 %",
+        "userFriendlyValue": "16.9",
+        "kpiTarget": null,
+        "kpiIsOk": null,
+        "trend": "-0.48%",
+        "trendIsOk": 1,
+        "trendPeriod": "2019",
+        "arrowDown": true,
+        "lastValue": true,
+        "collation": null,
+        "Region": "Al Dhafra Region",
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ]
+  },
+  {
+    "id": "kpi_44",
+    "strategyId": "Human Capital & Learning",
+    "categoryId": "Foreign Talent",
+    "relatedInitiatives": null,
+    "name": "Participation rate of Emirati youth in the workforce (%)",
+    "lastUpdated": null,
+    "updateFrequency": null,
+    "dataSource": null,
+    "calculationMethodology": null,
+    "criticality": "Level 2",
+    "defaultDimension": {
+      "Region": null,
+      "Gender": null,
+      "Cluster": null,
+      "Country": null,
+      "Sector": null
+    },
+    "dimensions": null,
+    "targets": [
+      {
+        "2023": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2025": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2030": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "2041": {
+          "value": null,
+          "presentationalValue": null
+        },
+        "currentTarget": null,
+        "furthestTarget": null,
+        "Region": null,
+        "Gender": null,
+        "Cluster": null,
+        "Country": null,
+        "Sector": null
+      }
+    ],
+    "data": null
+  }
+]

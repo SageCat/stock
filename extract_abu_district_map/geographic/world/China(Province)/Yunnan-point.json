@@ -1,0 +1,17 @@
+{"features": [{
+"geometry": {"coordinates": [100.7446, 23.4229], "type": "Point"}, "properties": {"name": "Puer City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [103.0408, 23.6041], "type": "Point"}, "properties": {"name": "Honghe Hani and Yi Autonomous Prefecture"}, "type": "Feature"} , {
+"geometry": {"coordinates": [104.8865, 23.5712], "type": "Point"}, "properties": {"name": "Wenshan Zhuang and Miao Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [103.9417, 25.7025], "type": "Point"}, "properties": {"name": "Qujing City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [101.6016, 25.3619], "type": "Point"}, "properties": {"name": "Chuxiong Yi Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [99.9536, 25.6805], "type": "Point"}, "properties": {"name": "Dali Bai Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [99.613, 24.0546], "type": "Point"}, "properties": {"name": "Lincang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [99.4592, 27.9327], "type": "Point"}, "properties": {"name": "Diqing Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [104.0955, 27.6031], "type": "Point"}, "properties": {"name": "Zhaotong City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [102.9199, 25.4663], "type": "Point"}, "properties": {"name": "Kunming City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [100.448, 26.955], "type": "Point"}, "properties": {"name": "Lijiang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [100.8984, 21.8628], "type": "Point"}, "properties": {"name": "Xishuangbanna Dai Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [99.0637, 24.9884], "type": "Point"}, "properties": {"name": "Baoshan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [101.9312, 23.8898], "type": "Point"}, "properties": {"name": "Yuxi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [99.1516, 26.5594], "type": "Point"}, "properties": {"name": "Nujiang Lisu Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [98.1299, 24.5874], "type": "Point"}, "properties": {"name": "Dehong Dai Jingpo Autonomous Prefecture"}, "type": "Feature" }], "type": "FeatureCollection"}

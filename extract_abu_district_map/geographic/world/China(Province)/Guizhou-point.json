@@ -1,0 +1,10 @@
+{"center": [106.6113, 26.9385], "features": [{
+"geometry": {"coordinates": [106.908, 28.1744], "type": "Point"}, "properties": {"name": "Zunyi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.4241, 26.4166], "type": "Point"}, "properties": {"name": "Qiandongnan Miao and Dong Autonomous Prefecture"}, "type": "Feature"} , {
+"geometry": {"coordinates": [105.1611, 27.0648], "type": "Point"}, "properties": {"name": "Bijie area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.2485, 25.8398], "type": "Point"}, "properties": {"name": "Qiannan Buyi and Miao Autonomous Prefecture"}, "type": "Feature" }, {
+"geometry": {"coordinates": [108.6218, 28.0096], "type": "Point"}, "properties": {"name": "Tongren area"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.5347, 25.3949], "type": "Point"}, "properties": {"name": "Qianxinan Buyi and Miao Autonomous Prefecture"}, "type": "Feature" }, {
+"geometry": {"coordinates": [104.7546, 26.0925], "type": "Point"}, "properties": {"name": "Liupanshui City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.9082, 25.9882], "type": "Point"}, "properties": {"name": "Anshun City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.6992, 26.7682], "type": "Point"}, "properties": {"name": "Guiyang City"}, "type": "Feature"}], " Type": "FeatureCollection"}

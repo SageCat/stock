@@ -1,0 +1,14 @@
+{"features": [{
+"geometry": {"coordinates": [120.2234, 33.5577], "type": "Point"}, "properties": {"name": "Yancheng City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.5208, 34.3268], "type": "Point"}, "properties": {"name": "Xuzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.1023, 32.1625], "type": "Point"}, "properties": {"name": "Nantong City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.927, 33.4039], "type": "Point"}, "properties": {"name": "Huai'an City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.6519, 31.3989], "type": "Point"}, "properties": {"name": "Suzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.5535, 33.7775], "type": "Point"}, "properties": {"name": "Suqian City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.1248, 34.552], "type": "Point"}, "properties": {"name": "Lianyungang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.4653, 32.8162], "type": "Point"}, "properties": {"name": "Yangzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.8062, 31.9208], "type": "Point"}, "properties": {"name": "Nanjing City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.0586, 32.5525], "type": "Point"}, "properties": {"name": "Taizhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.3442, 31.5527], "type": "Point"}, "properties": {"name": "Wuxi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.4543, 31.5582], "type": "Point"}, "properties": {"name": "Changzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.4763, 31.9702], "type": "Point"}, "properties": {"name": "Zhenjiang City"}, "type": "Feature"}], " Type": "FeatureCollection"}

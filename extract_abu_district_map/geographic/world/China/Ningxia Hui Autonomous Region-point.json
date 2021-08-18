@@ -1,0 +1,6 @@
+{"center": [105.9961, 37.3096], "features": [{
+"geometry": {"coordinates": [106.853, 37.3755], "type": "Point"}, "properties": {"name": "Wuzhong City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.4028, 36.9525], "type": "Point"}, "properties": {"name": "Zhongwei City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.1389, 35.9363], "type": "Point"}, "properties": {"name": "Guyuan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.3586, 38.1775], "type": "Point"}, "properties": {"name": "Yinchuan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.4795, 39.0015], "type": "Point"}, "properties": {"name": "Shizuishan City"}, "type": "Feature"}], " Type": "FeatureCollection"}

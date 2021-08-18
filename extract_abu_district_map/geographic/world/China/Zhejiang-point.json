@@ -1,0 +1,12 @@
+{"features": [{
+"geometry": {"coordinates": [119.5642, 28.1854], "type": "Point"}, "properties": {"name": "Lishui City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.5313, 29.8773], "type": "Point"}, "properties": {"name": "Hangzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.498, 27.8119], "type": "Point"}, "properties": {"name": "Wenzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.5967, 29.6466], "type": "Point"}, "properties": {"name": "Ningbo City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [122.2559, 30.2234], "type": "Point"}, "properties": {"name": "Zhoushan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.1353, 28.6688], "type": "Point"}, "properties": {"name": "Taizhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.0037, 29.1028], "type": "Point"}, "properties": {"name": "Jinhua City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.6853, 28.8666], "type": "Point"}, "properties": {"name": "Quzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.564, 29.7565], "type": "Point"}, "properties": {"name": "Shaoxing City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.9155, 30.6354], "type": "Point"}, "properties": {"name": "Jiaxing City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.8608, 30.7782], "type": "Point"}, "properties": {"name": "Huzhou City"}, "type": "Feature"}], " Type": "FeatureCollection"}

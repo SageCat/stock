@@ -1,0 +1,18 @@
+{"features": [{
+"geometry": {"coordinates": [120.7397, 37.5128], "type": "Point"}, "properties": {"name": "Yantai City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.3118, 35.2936], "type": "Point"}, "properties": {"name": "Linyi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.0918, 36.524], "type": "Point"}, "properties": {"name": "Weifang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [120.4651, 36.3373], "type": "Point"}, "properties": {"name": "Qingdao City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.6201, 35.2057], "type": "Point"}, "properties": {"name": "Heze City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.8286, 35.3375], "type": "Point"}, "properties": {"name": "Jining City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.6858, 37.2107], "type": "Point"}, "properties": {"name": "Dezhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.8174, 37.4963], "type": "Point"}, "properties": {"name": "Binzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [115.9167, 36.4032], "type": "Point"}, "properties": {"name": "Liaocheng City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.7073, 37.5513], "type": "Point"}, "properties": {"name": "Dongying City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.1582, 36.8701], "type": "Point"}, "properties": {"name": "Jinan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.0264, 36.0516], "type": "Point"}, "properties": {"name": "Taian City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [121.9482, 37.1393], "type": "Point"}, "properties": {"name": "Weihai City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [119.2786, 35.5023], "type": "Point"}, "properties": {"name": "Rizhao City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [118.0371, 36.6064], "type": "Point"}, "properties": {"name": "Zibo City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.323, 34.8926], "type": "Point"}, "properties": {"name": "Zaozhuang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.6526, 36.2714], "type": "Point"}, "properties": {"name": "Laiwu City"}, "type": "Feature"}], " Type": "FeatureCollection"}

@@ -1,0 +1,15 @@
+{"center": [111.5332, 27.3779], "features": [{
+"geometry": {"coordinates": [109.9512, 27.4438], "type": "Point"}, "properties": {"name": "Huaihua City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [111.709, 25.752], "type": "Point"}, "properties": {"name": "Yongzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [110.9619, 26.8121], "type": "Point"}, "properties": {"name": "Shaoyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.2361, 25.8673], "type": "Point"}, "properties": {"name": "Chenzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [111.4014, 29.2676], "type": "Point"}, "properties": {"name": "Changde City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.7864, 28.6743], "type": "Point"}, "properties": {"name": "Xiangxi Tujia and Miao Autonomous Prefecture"}, "type": "Feature"} , {
+"geometry": {"coordinates": [112.4121, 26.7902], "type": "Point"}, "properties": {"name": "Hengyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.2361, 29.1357], "type": "Point"}, "properties": {"name": "Yueyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [111.731, 28.3832], "type": "Point"}, "properties": {"name": "Yiyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.0823, 28.2568], "type": "Point"}, "properties": {"name": "Changsha City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [113.5327, 27.0319], "type": "Point"}, "properties": {"name": "Zhuzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [110.5115, 29.328], "type": "Point"}, "properties": {"name": "Zhangjiajie City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [111.6431, 27.7185], "type": "Point"}, "properties": {"name": "Loudi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [112.5439, 27.7075], "type": "Point"}, "properties": {"name": "Xiangtan City"}, "type": "Feature"}], " Type": "FeatureCollection"}

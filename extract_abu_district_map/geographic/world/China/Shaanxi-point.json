@@ -1,0 +1,11 @@
+{"features": [{
+"geometry": {"coordinates": [109.8743, 38.205], "type": "Point"}, "properties": {"name": "Yulin City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.1052, 36.4252], "type": "Point"}, "properties": {"name": "Yan'an City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.886, 33.0139], "type": "Point"}, "properties": {"name": "Hanzhong City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.1162, 32.7722], "type": "Point"}, "properties": {"name": "Ankang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.8083, 33.761], "type": "Point"}, "properties": {"name": "Shangluo City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.1826, 34.3433], "type": "Point"}, "properties": {"name": "Baoji City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.7864, 35.0299], "type": "Point"}, "properties": {"name": "Weinan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [108.4131, 34.8706], "type": "Point"}, "properties": {"name": "Xianyang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.1162, 34.2004], "type": "Point"}, "properties": {"name": "Xi'an City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [109.0393, 35.1947], "type": "Point"}, "properties": {"name": "Tongchuan City"}, "type": "Feature"},, " Type": "FeatureCollection"}

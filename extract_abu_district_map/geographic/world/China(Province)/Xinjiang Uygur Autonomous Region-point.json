@@ -1,0 +1,18 @@
+{"features": [{"geometry": {"coordinates": [88.1653, 39.6002], "type": "Point"}, "properties": {"name": "Bayingolin Mongol Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [81.167, 36.9855], "type": "Point"}, "properties": {"name": "Hetian Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [93.7793, 42.9236], "type": "Point"}, "properties": {"name": "Hami Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [82.9797, 41.0229], "type": "Point"}, "properties": {"name": "Aksu Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [88.2971, 47.0929], "type": "Point"}, "properties": {"name": "Altay Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [77.168, 37.8534], "type": "Point"}, "properties": {"name": "Kashgar Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [86.6272, 45.8514], "type": "Point"}, "properties": {"name": "Tacheng Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [89.6814, 44.4507], "type": "Point"}, "properties": {"name": "Changji Hui Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [74.6301, 39.5233], "type": "Point"}, "properties": {"name": "Kizilsu Kirghiz Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [89.6375, 42.4127], "type": "Point"}, "properties": {"name": "Turpan Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [82.5513, 43.5498], "type": "Point"}, "properties": {"name": "Ili Kazakh Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [81.8481, 44.6979], "type": "Point"}, "properties": {"name": "Bortala Mongolian Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [87.9236, 43.5883], "type": "Point"}, "properties": {"name": "Urumqi"}, "type": "Feature"}, {
+"geometry": {"coordinates": [85.2869, 45.5054], "type": "Point"}, "properties": {"name": "Karamay"}, "type": "Feature"}, {
+"geometry": {"coordinates": [81.2769, 40.6549], "type": "Point"}, "properties": {"name": "Alar"}, "type": "Feature"}, {
+"geometry": {"coordinates": [79.1345, 39.8749], "type": "Point"}, "properties": {"name": "Tumushuk"}, "type": "Feature"}, {
+"geometry": {"coordinates": [87.5391, 44.3024], "type": "Point"}, "properties": {"name": "Wujiaqu"}, "type": "Feature"}, {
+"geometry": {"coordinates": [86.0229, 44.2914], "type": "Point"}, "properties": {"name": "Shihezi"}, "type": "Feature"}], "type": "FeatureCollection"}

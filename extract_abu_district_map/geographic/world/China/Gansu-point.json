@@ -1,0 +1,15 @@
+{"features": [{
+"geometry": {"coordinates": [95.91064453125, 40.36328834091583], "type": "Point"}, "properties": {"name": "Jiuquan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [98.173828125, 39.80853604144591], "type": "Point"}, "properties": {"name": "Jiayuguan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [100.30517578125, 38.8225909761771], "type": "Point"}, "properties": {"name": "Zhangye City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [102.06298828125, 38.42777351132905], "type": "Point"}, "properties": {"name": "Jinchang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [102.98583984374999, 37.68382032669382], "type": "Point"}, "properties": {"name": "Wuwei City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [103.502197265625, 36.40359962073253], "type": "Point"}, "properties": {"name": "Lanzhou City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [104.765625, 36.58906837139909], "type": "Point"}, "properties": {"name": "Baiyin City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [103.2440185546875, 35.54116627999815], "type": "Point"}, "properties": {"name": "Linxia Hui Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [104.337158203125, 34.97150033361733], "type": "Point"}, "properties": {"name": "Dingxi City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [103.0023193359375, 34.470335121217495], "type": "Point"}, "properties": {"name": "Gannan Tibetan Autonomous Prefecture"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.1171875, 33.710632271492095], "type": "Point"}, "properties": {"name": "Longnan City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [105.6884765625, 34.58799745550482], "type": "Point"}, "properties": {"name": "Tianshui City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [106.6827392578125, 35.22318504970181], "type": "Point"}, "properties": {"name": "Pingliang City"}, "type": "Feature"}, {
+"geometry": {"coordinates": [107.6934814453125, 35.964669147704086], "type": "Point"}, "properties": {"name": "Qingyang City"}, "type": "Feature"}], "type": "FeatureCollection"}

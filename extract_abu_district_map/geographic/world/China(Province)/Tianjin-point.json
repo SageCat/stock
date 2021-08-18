@@ -1,0 +1,17 @@
+{"features": [{
+"geometry": {"coordinates": [117.4672, 40.004], "type": "Point"}, "properties": {"name": "Jizhou District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.0621, 39.4121], "type": "Point"}, "properties": {"name": "Wuqing District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.4274, 39.5913], "type": "Point"}, "properties": {"name": "Baodi District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [116.9824, 38.8312], "type": "Point"}, "properties": {"name": "Jinghai District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.6801, 39.3853], "type": "Point"}, "properties": {"name": "Ninghe District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.68, 38.97], "type": "Point"}, "properties": {"name": "Binhai New District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.1829, 39.0022], "type": "Point"}, "properties": {"name": "Xiqing District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.1761, 39.2548], "type": "Point"}, "properties": {"name": "Beichen District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.4013, 39.1223], "type": "Point"}, "properties": {"name": "Dongli District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.3958, 38.9603], "type": "Point"}, "properties": {"name": "Jinnan District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.2365, 39.0804], "type": "Point"}, "properties": {"name": "Hexi District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.2571, 39.1209], "type": "Point"}, "properties": {"name": "Hedong District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.1527, 39.1065], "type": "Point"}, "properties": {"name": "Nankai District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.2145, 39.1615], "type": "Point"}, "properties": {"name": "Hebei District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.1596, 39.1663], "type": "Point"}, "properties": {"name": "Hongqiao District"}, "type": "Feature"}, {
+"geometry": {"coordinates": [117.2008, 39.1189], "type": "Point"}, "properties": {"name": "Heping District"}, "type": "Feature"}], " Type": "FeatureCollection"}
