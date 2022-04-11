@@ -1,8 +1,9 @@
 import json
 import re
-import time
-
 import requests
+import pandas as pd
+from sqlalchemy import create_engine
+import pymysql
 
 
 # 获取股票代码
@@ -11,7 +12,6 @@ def get_stock_code():
     r = requests.get(url)
     pattern = '\{"f1".*?\}'
     temp_text = re.compile(pattern, re.S).findall(r.text)
-
     stock_list = []
     for i in temp_text:
         temp_dict = json.loads(i)
@@ -32,18 +32,46 @@ def get_data(stock_code):
                 code) + "&wbp2u=|0|0|0|web&cb=jQuery112406820703191275046_1649614900618&_=1649614900619"
         r = requests.get(url)
         pattern = '\((.*?)\)'
-        # time.sleep(1)
-        print(url)
-        print(code)
         temp_text = re.compile(pattern, re.S).findall(r.text)
         temp_dic = json.loads(temp_text[0])
         if temp_dic['rc'] == 0:
-            valid_data.append(temp_dic)
-        print(temp_dic)
+            valid_data.append(temp_dic['data'])
+            print(temp_dic['data'])
     return valid_data
 
 
+def handle_data(data_list):
+    table_column_list = {"f80": "日期", "f71": "均价", "f60": "昨收", "f44": "最高", "f45": "最低", "f104": "总营收", "f116": "总市值",
+                         "f84": "总股本", "f193": "主力净比", "f196": "中单净比", "f51": "涨停", "f170": "涨幅", "f169": "涨跌",
+                         "f184": "营收同比", "f127": "行业名称", "f197": "小单净比", "f192": "委差", "f191": "委比", "f49": "外盘",
+                         "f55": "收益", "f167": "市净率", "f189": "上市日期", "f190": "每股未分配利润", "f92": "每股净资产", "f186": "毛利率",
+                         "f117": "流通市值", "f85": "流通股数", "f50": "量比", "f163": "静态市盈率", "f185": "净利润同比", "f105": "净利润",
+                         "f187": "净利率", "f137": "今日主力净流入", "f146": "今日中单净流入", "f149": "今日小单净流入", "f143": "今日大单净流入",
+                         "f140": "今日超大单净流入", "f46": "今开", "f168": "换手率", "f164": "滚动市盈率", "f58": "股票名称", "f57": "股票代码",
+                         "f188": "负债率", "f162": "动态市盈率", "f52": "跌停", "f128": "地域板块名称", "f43": "当日价格", "f195": "大单净比",
+                         "f47": "成交量", "f48": "成交额", "f194": "超大单净比", "f173": "ROE"}
+
+    df = pd.DataFrame(columns=table_column_list.values())
+
+    for row in data_list:
+        enhanced_data = []
+        for key in table_column_list.keys():
+            if key == "f80":
+                enhanced_data.append(str(json.loads(row[key])[0]["b"])[0:8])
+            else:
+                enhanced_data.append(row[key])
+        df.loc[len(df)] = enhanced_data
+        print(enhanced_data)
+
+    df = df.replace(['-'], 0)
+    # create sqlalchemy engine
+    engine = create_engine("mysql+pymysql://{user}:{pw}@localhost/{db}"
+                           .format(user="root",
+                                   pw="12345678",
+                                   db="stock"))
+    res = df.to_sql('daily_stock_data', con=engine, if_exists='append', chunksize=1000, index=False)
+    print(res)
+
+
 if __name__ == '__main__':
-    # url_postfix = get_html()
-    # print(url_postfix)
-    get_data(get_stock_code())
+    handle_data(get_data(get_stock_code()))
